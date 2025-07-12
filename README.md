@@ -22,16 +22,16 @@ This project analyses public datasets from ABS to identify trends in rental cost
 [dashboard](images/graphs.png)
 
 ### Median household weekly income comparision
-[household income](images/median household weekly income.png)
+[household income](images/median_household_weekly_income.png)
 
 ### Tenure and landloard type about remoteness
-[tenure&landloardtype](images/remoteness landloard type.png)
+[tenure&landloardtype](images/remoteness_landloard_type.png)
 
 ### Weekly rental fee
-[rental fee](images/weekly rental fee.png)
+[rental fee](images/weekly_rental_fee.png)
 
 ### Condition of employment
-[employment](images/employment condition.png)
+[employment](images/employment_condition.png)
 
 ## Files
 - `report/housing_analysis_report.pdf`: Full academic analysis (personal details removed)

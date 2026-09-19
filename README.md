@@ -200,7 +200,7 @@ housing_dashboard/
 |-- data/
 |   `-- abs_housing_data.xlsx
 |-- images/
-|   |-- graphs.png
+|   |-- dashboard.png
 |   |-- median_household_weekly_income.png
 |   |-- remoteness_landloard_type.png
 |   |-- weekly_rental_fee.png

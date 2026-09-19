@@ -58,7 +58,7 @@ comparing results across charts.
 
 ## Dashboard Overview
 
-![Housing dashboard overview](images/graphs.png)
+![Housing dashboard overview](images/dashboard.png)
 
 The dashboard brings together four related perspectives:
 
